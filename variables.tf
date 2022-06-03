@@ -4,8 +4,8 @@ variable "aws_region" {
 }
 
 variable "ami_id" {
-  description = "Suse LES 15 SP3"
-  default = "ami-08895422b5f3aa64a"
+  description = "Suse LES 15 SP3 - 64bit X86"
+  default = "ami-0bb712bfc5b5ce8f9"
 }
 
 variable "name" {
