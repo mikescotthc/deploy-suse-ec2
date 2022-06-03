@@ -1,2 +1,2 @@
-# deploy-suse-ec2
-Enterprise Suse 15 SP3 test deploy
+# test-terraform-ec2
+Testing Terraform Ubuntu deploy - simple EC2 deploy
