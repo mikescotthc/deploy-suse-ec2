@@ -1,2 +1,2 @@
 # test-terraform-ec2
-Testing Terraform Ubuntu deploy - simple EC2 deploy
+Testing Terraform Suse deploy - simple EC2 deploy
